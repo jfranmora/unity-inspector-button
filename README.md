@@ -1,4 +1,4 @@
-# Inspector Extensions - Button
+# [Unity] Inspector Extensions - Button
 
 #### How to use
 
