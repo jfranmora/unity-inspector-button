@@ -9,11 +9,10 @@ using UnityEngine;
 namespace JfranMora.Inspector
 {
 	using Object = UnityEngine.Object;
-	using Editor = UnityEditor.Editor;
 
 	[CanEditMultipleObjects]
 	[CustomEditor(typeof(Object), true, isFallback = true)]
-	public class ButtonEditor : Editor
+	public class ButtonEditor : UnityEditor.Editor
 	{
 		private InternalData internalData;
 

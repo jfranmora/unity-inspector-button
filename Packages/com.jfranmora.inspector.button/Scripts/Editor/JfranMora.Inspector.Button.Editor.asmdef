@@ -1,0 +1,17 @@
+{
+    "name": "JfranMora.Inspector.Button.Editor",
+    "references": [
+        "GUID:208bbecd1c51b8f46b8ef113169321f9"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
