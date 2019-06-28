@@ -10,7 +10,7 @@ Download the latest release and unzip it in the project.
 ## Installation (UPM)
 Add to `manifest.json` as dependency the following line:
 
-`"com.jfranmora.inspector.required-field": "https://github.com/jfranmora/unity-inspector-button.git#upm"`
+`"com.jfranmora.inspector.button": "https://github.com/jfranmora/unity-inspector-button.git#upm"`
 
 ## How to use
 
