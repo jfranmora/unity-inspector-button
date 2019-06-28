@@ -1,5 +1,9 @@
 # [Unity] Inspector Extensions - Button
 
+Add a button in inspector to call functions. A substitute for `[ContextMenu()]`
+
+![Example](https://i.imgur.com/64ZJT80.png)
+
 ## Installation (Manual)
 Download the latest release and unzip it in the project.
 
@@ -37,5 +41,3 @@ public class Example : MonoBehaviour
     }
 }
 ```
-
-![Example](https://i.imgur.com/64ZJT80.png)
