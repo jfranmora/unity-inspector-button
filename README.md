@@ -1,6 +1,6 @@
-# unity-inspector-button
+# [Unity] Inspector Extensions - Button
 
-#### How to use
+## How to use
 
 Add the `[Button]` attribute to a function.
 Optionally, you can set `HideInEditMode` or `HideInPlayMode` to hide the button in Editor Mode or Play Mode.
