@@ -1,7 +1,7 @@
 # [Unity] Inspector Extensions - Button
 
 ## Installation (Manual)
-Download the release https://github.com/jfranmora/unity-inspector-button/archive/0.1.0.zip and unzip it in the project.
+Download the latest release and unzip it in the project.
 
 ## Installation (UPM)
 Add to `manifest.json` as dependency the following line:
